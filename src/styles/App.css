@@ -1,0 +1,15 @@
+input.form-control,
+input.form-control:focus {
+  background: #f0f0ff;
+}
+input:invalid {
+  border: 1px solid red;
+}
+.error {
+  position: absolute;
+  color: red;
+  font-size: 0.7rem;
+  margin-top: 57px;
+  margin-left: 5px;
+  font-weight: 400;
+}
